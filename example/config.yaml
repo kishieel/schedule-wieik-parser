@@ -1,0 +1,21 @@
+config:
+  teachers:
+    - "/^dr.*$/gmi"
+    - "/^mgr.*$/gmi"
+  subjects:
+    - "SG"
+    - "TI"
+    - "SW"
+    - "PSC"
+  groups:
+    - "W"
+    - "Lk1"
+    - "Lk2"
+    - "P1"
+    - "P2"
+    - "L1"
+    - "L2"
+    - "L3"
+  rooms:
+    - "MS Teams"
+    - "/^s\..*$/gmi"
