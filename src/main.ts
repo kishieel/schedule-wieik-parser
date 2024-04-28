@@ -1,10 +1,13 @@
-import { Command, OptionValues } from "commander";
+#!/usr/bin/env node
+
+import {Command, OptionValues} from "commander";
 import {PDFNet} from "@pdftron/pdfnet-node";
+import * as process from "process";
 
 const program = new Command();
 
 program
-    .version('0.0.1')
+    .version('1.0.2')
     .name('Schedule WIEIK - Parser')
     .usage('yarn start --input [INPUT] --output [INPUT] --config [CONFIG]')
     .requiredOption('-i, --input [INPUT]', 'path to input file in PDF format')
@@ -25,6 +28,7 @@ const bootstrap = async (options: OptionValues) => {
     excelOutputOptions.setPages(1, 1);
 
     await PDFNet.Convert.fileToExcel(options.input, options.output, excelOutputOptions);
+    await PDFNet.terminateEx(0);
 }
 
 bootstrap(program.opts()).catch(console.error)

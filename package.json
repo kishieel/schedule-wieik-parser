@@ -1,6 +1,6 @@
 {
-  "name": "schedule-wieik-parser",
-  "version": "1.0.0",
+  "name": "@kishieel/schedule-wieik-parser",
+  "version": "1.0.2",
   "description": "Schedule parser for WIEiK",
   "keywords": [
     "schedule",
@@ -10,11 +10,13 @@
   "license": "MIT",
   "homepage": "https://github.com/kishieel/schedule-wieik-parser",
   "repository": "https://github.com/kishieel/schedule-wieik-parser",
-  "main": "dist/main.js",
+  "main": "./dist/main.js",
   "bin": {
-    "schedule-wieik-parser": "dist/main.js"
+    "schedule-wieik-parser": "./dist/main.js"
   },
   "scripts": {
+    "prebuild": "rimraf dist",
+    "postbuild": "chmod +x dist/main.js",
     "build": "tsc",
     "start": "node dist/main.js"
   },
@@ -26,5 +28,8 @@
   "devDependencies": {
     "@types/node": "20.12.7",
     "typescript": "5.4.5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
