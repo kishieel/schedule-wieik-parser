@@ -2,17 +2,8 @@
 .idea/
 .vscode/
 
-# Virtual environment
-venv/
-
-# Cache
-__pycache__/
-
 # node_modules
 node_modules/
-
-# Confidential
-env.py
 
 # Build
 dist/
