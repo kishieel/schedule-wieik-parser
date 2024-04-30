@@ -1,6 +1,6 @@
 {
   "name": "@kishieel/schedule-wieik-parser",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "Schedule parser for WIEiK",
   "keywords": [
     "schedule",
@@ -11,23 +11,40 @@
   "homepage": "https://github.com/kishieel/schedule-wieik-parser",
   "repository": "https://github.com/kishieel/schedule-wieik-parser",
   "main": "./dist/main.js",
+  "files": [
+    "dist/**/*"
+  ],
   "bin": {
     "schedule-wieik-parser": "./dist/main.js"
   },
   "scripts": {
+    "prepare": "ts-patch install -s",
     "prebuild": "rimraf dist",
     "postbuild": "chmod +x dist/main.js",
     "build": "tsc",
-    "start": "node dist/main.js"
+    "start": "node dist/main.js",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "eslint \"{src}/**/*.ts\" --fix"
   },
   "dependencies": {
     "@pdftron/data-extraction": "10.8.0",
     "@pdftron/pdfnet-node": "10.8.0-1",
-    "commander": "12.0.0"
+    "commander": "12.0.0",
+    "date-fns": "3.6.0",
+    "romans": "2.0.15",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.2/xlsx-0.20.2.tgz",
+    "yaml": "2.4.2"
   },
   "devDependencies": {
     "@types/node": "20.12.7",
-    "typescript": "5.4.5"
+    "eslint": "9.1.1",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-prettier": "5.1.3",
+    "prettier": "3.2.5",
+    "ts-patch": "3.1.2",
+    "tsconfig-paths": "4.2.0",
+    "typescript": "5.4.5",
+    "typescript-transform-paths": "3.4.7"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

@@ -1,0 +1,11 @@
+# IDEs
+.idea/
+.vscode/
+
+# Source files
+.eslintrc.js
+.prettierrc
+.readme.md
+.gitignore
+example/
+src/

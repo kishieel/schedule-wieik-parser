@@ -1,21 +1,26 @@
-config:
-  teachers:
-    - "/^dr.*$/gmi"
-    - "/^mgr.*$/gmi"
-  subjects:
-    - "SG"
-    - "TI"
-    - "SW"
-    - "PSC"
-  groups:
-    - "W"
-    - "Lk1"
-    - "Lk2"
-    - "P1"
-    - "P2"
-    - "L1"
-    - "L2"
-    - "L3"
-  rooms:
-    - "MS Teams"
-    - "/^s\..*$/gmi"
+dateOfFirstLecture: '2024-03-02'
+lectures:
+  - name: 'SG'
+    id: 1
+  - name: 'SW'
+    id: 2
+  - name: 'TI'
+    id: 3
+  - name: 'PSC'
+    id: 4
+lecturers:
+  - 'dr.*'
+  - 'mgr.*'
+  - 'inż.*'
+groups:
+  - type: 'w'
+    set: [ 'W' ]
+  - type: 'p'
+    set: [ 'P1', 'P2' ]
+  - type: 'lk'
+    set: [ 'LK1', 'LK2' ]
+  - type: 'l'
+    set: [ 'L1', 'L2', 'L3' ]
+rooms:
+  - 'MS Teams'
+  - 's\..*'

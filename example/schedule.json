@@ -1,0 +1,1359 @@
+[
+  {
+    "date": "2024-03-02",
+    "classes": [
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "W",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "9:00",
+        "end": "13:15",
+        "duration": 5
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "W",
+        "lecturer": "dr inż. A. Drwal / dr inż. S. Żaba",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "13:30",
+        "end": "16:45",
+        "duration": 4
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "W",
+        "lecturer": "dr inż. D. Grela",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "17:00",
+        "end": "20:15",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "date": "2024-03-03",
+    "classes": [
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "W",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "W",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "11:45",
+        "end": "15:00",
+        "duration": 4
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "W",
+        "lecturer": "dr inż. A. Drwal / dr inż. S. Żaba",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "15:15",
+        "end": "17:45",
+        "duration": 3
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "W",
+        "lecturer": "dr inż. D. Grela",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "17:45",
+        "end": "20:15",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "date": "2024-03-09",
+    "classes": [
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "W",
+        "lecturer": "dr inż. D. Grela",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "W",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "11:45",
+        "end": "16:00",
+        "duration": 5
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "W",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "17:00",
+        "end": "20:15",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "date": "2024-03-10",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "W",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "W",
+        "lecturer": "dr inż. D. Grela",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "12:30",
+        "end": "15:00",
+        "duration": 3
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "W",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "15:15",
+        "end": "16:45",
+        "duration": 2
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "W",
+        "lecturer": "dr inż. A. Drwal / dr inż. S. Żaba",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "17:00",
+        "end": "20:15",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "date": "2024-03-16",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "W",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "W",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "12:30",
+        "end": "16:00",
+        "duration": 4
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "W",
+        "lecturer": "dr inż. D. Grela",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "17:00",
+        "end": "20:15",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "date": "2024-03-17",
+    "classes": [
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "W",
+        "lecturer": "dr inż. D. Grela",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "W",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "MS Teams",
+        "type": "w",
+        "start": "11:45",
+        "end": "16:00",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "2024-03-23",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L3",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "8:15",
+        "end": "10:45",
+        "duration": 3
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P1",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 101B",
+        "type": "p",
+        "start": "10:45",
+        "end": "15:00",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P2",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 101B",
+        "type": "p",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk1",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "8:15",
+        "end": "10:45",
+        "duration": 3
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk2",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "10:45",
+        "end": "13:15",
+        "duration": 3
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk2",
+        "lecturer": "dr inż. S. Żaba",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "13:30",
+        "end": "16:00",
+        "duration": 3
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk1",
+        "lecturer": "dr inż. S. Żaba",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "16:00",
+        "end": "18:30",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "date": "2024-03-24",
+    "classes": [
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk2",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "8:15",
+        "end": "10:45",
+        "duration": 3
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L3",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "11:45",
+        "end": "14:15",
+        "duration": 3
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "14:15",
+        "end": "16:45",
+        "duration": 3
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "8:15",
+        "end": "10:45",
+        "duration": 3
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk1",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "10:45",
+        "end": "13:15",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "date": "2024-04-06",
+    "classes": [
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk2",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P2",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 201",
+        "type": "p",
+        "start": "12:30",
+        "end": "16:45",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk1",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "17:00",
+        "end": "20:15",
+        "duration": 4
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P1",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 201",
+        "type": "p",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "P1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "12:30",
+        "end": "16:45",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "2024-04-07",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "12:30",
+        "end": "16:00",
+        "duration": 4
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L3",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "lk",
+        "start": "12:30",
+        "end": "16:00",
+        "duration": 4
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "lk",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "2024-04-13",
+    "classes": [
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P1",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 101B",
+        "type": "p",
+        "start": "11:45",
+        "end": "16:00",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P2",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 101B",
+        "type": "p",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 18",
+        "type": "lk",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 18",
+        "type": "p",
+        "start": "12:30",
+        "end": "14:15",
+        "duration": 2
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk2",
+        "lecturer": "dr inż. S. Żaba",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "14:15",
+        "end": "16:00",
+        "duration": 2
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk1",
+        "lecturer": "dr inż. S. Żaba",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "16:00",
+        "end": "17:45",
+        "duration": 2
+      }
+    ]
+  },
+  {
+    "date": "2024-04-14",
+    "classes": [
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P1",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 101B",
+        "type": "p",
+        "start": "9:00",
+        "end": "13:15",
+        "duration": 5
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P2",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "8:15",
+        "end": "10:45",
+        "duration": 3
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk2",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "10:45",
+        "end": "13:15",
+        "duration": 3
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 18",
+        "type": "lk",
+        "start": "14:15",
+        "end": "17:45",
+        "duration": 4
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 18",
+        "type": "p",
+        "start": "17:45",
+        "end": "20:15",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "date": "2024-04-20",
+    "classes": [
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "p",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "2024-04-27",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L3",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "12:30",
+        "end": "16:00",
+        "duration": 4
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk1",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "9:00",
+        "end": "12:30",
+        "duration": 4
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk2",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "12:30",
+        "end": "16:00",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "date": "2024-04-28",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L3",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "11:45",
+        "end": "16:00",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk2",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "12:30",
+        "end": "16:00",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "date": "2024-05-11",
+    "classes": [
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "lk",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "p",
+        "start": "11:45",
+        "end": "15:00",
+        "duration": 4
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 18",
+        "type": "lk",
+        "start": "15:15",
+        "end": "17:45",
+        "duration": 3
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 18",
+        "type": "p",
+        "start": "17:45",
+        "end": "20:15",
+        "duration": 3
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "P2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk1",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 12",
+        "type": "lk",
+        "start": "15:15",
+        "end": "18:30",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "date": "2024-05-12",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "W",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. A4",
+        "type": "w",
+        "start": "8:15",
+        "end": "10:45",
+        "duration": 3
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "lk",
+        "start": "12:30",
+        "end": "14:15",
+        "duration": 2
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P1",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 101B",
+        "type": "p",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk1",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "10:45",
+        "end": "12:30",
+        "duration": 2
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "Lk2",
+        "lecturer": "dr inż.  P. Król",
+        "room": "s. 202",
+        "type": "lk",
+        "start": "12:30",
+        "end": "14:15",
+        "duration": 2
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P2",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "14:15",
+        "end": "16:00",
+        "duration": 2
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk2",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "2024-05-18",
+    "classes": [
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P2",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 201",
+        "type": "p",
+        "start": "11:45",
+        "end": "16:00",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "11:45",
+        "end": "16:00",
+        "duration": 5
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "p",
+        "start": "16:00",
+        "end": "20:15",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "2024-05-25",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "P2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "10:45",
+        "end": "15:00",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "P1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "15:15",
+        "end": "19:30",
+        "duration": 5
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "W",
+        "lecturer": "dr inż. D. Grela",
+        "room": "s. A2",
+        "type": "w",
+        "start": "8:15",
+        "end": "10:45",
+        "duration": 3
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "lk",
+        "start": "10:45",
+        "end": "15:00",
+        "duration": 5
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 18",
+        "type": "p",
+        "start": "15:15",
+        "end": "19:30",
+        "duration": 5
+      }
+    ]
+  },
+  {
+    "date": "2024-05-26",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "P2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "P1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "12:30",
+        "end": "16:45",
+        "duration": 5
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P2",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "12:30",
+        "end": "16:45",
+        "duration": 5
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "17:00",
+        "end": "20:15",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "date": "2024-06-01",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "P2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "W",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. A4",
+        "type": "w",
+        "start": "12:30",
+        "end": "15:00",
+        "duration": 3
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 101B",
+        "type": "lk",
+        "start": "9:00",
+        "end": "12:30",
+        "duration": 4
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "p",
+        "start": "15:15",
+        "end": "17:45",
+        "duration": 3
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "17:45",
+        "end": "20:15",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "date": "2024-06-02",
+    "classes": [
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P2",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 18",
+        "type": "p",
+        "start": "9:00",
+        "end": "13:15",
+        "duration": 5
+      },
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P1",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 18",
+        "type": "p",
+        "start": "13:30",
+        "end": "17:45",
+        "duration": 5
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "11:45",
+        "end": "14:15",
+        "duration": 3
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk2",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "14:15",
+        "end": "16:00",
+        "duration": 2
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P2",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "16:00",
+        "end": "18:30",
+        "duration": 3
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "18:45",
+        "end": "20:15",
+        "duration": 2
+      }
+    ]
+  },
+  {
+    "date": "2024-06-08",
+    "classes": [
+      {
+        "id": 1,
+        "title": "SG",
+        "group": "P2",
+        "lecturer": "mgr inż. K. Kiełkowicz",
+        "room": "s. 18",
+        "type": "p",
+        "start": "10:00",
+        "end": "14:15",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "P1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208E",
+        "type": "p",
+        "start": "10:00",
+        "end": "14:15",
+        "duration": 5
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "Lk2",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 18",
+        "type": "lk",
+        "start": "14:15",
+        "end": "17:45",
+        "duration": 4
+      },
+      {
+        "id": 3,
+        "title": "TI",
+        "group": "P1",
+        "lecturer": "mgr inż. P. Piskorz",
+        "room": "s. 19",
+        "type": "p",
+        "start": "17:45",
+        "end": "20:15",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "date": "2024-06-09",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L3",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "8:15",
+        "end": "11:30",
+        "duration": 4
+      },
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L1",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "11:45",
+        "end": "16:00",
+        "duration": 5
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "Lk1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "lk",
+        "start": "16:00",
+        "end": "17:45",
+        "duration": 2
+      },
+      {
+        "id": 4,
+        "title": "PSC",
+        "group": "P1",
+        "lecturer": "dr inż. A. Drwal",
+        "room": "s. 06",
+        "type": "p",
+        "start": "17:45",
+        "end": "20:15",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "date": "2024-06-15",
+    "classes": [
+      {
+        "id": 2,
+        "title": "SW",
+        "group": "L2",
+        "lecturer": "dr inż. D. Dorota",
+        "room": "s. 208G",
+        "type": "l",
+        "start": "8:15",
+        "end": "12:30",
+        "duration": 5
+      }
+    ]
+  }
+]

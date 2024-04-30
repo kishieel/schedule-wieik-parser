@@ -19,6 +19,10 @@
     "noFallthroughCasesInSwitch": false,
     "paths": {
       "@app/*": ["src/*"],
-    }
+    },
+    "plugins": [
+      { "transform": "typescript-transform-paths" },
+      { "transform": "typescript-transform-paths", "afterDeclarations": true }
+    ]
   }
 }
