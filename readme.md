@@ -103,13 +103,13 @@ lecturers:
   - 'inż.*'
 groups:
   - type: 'w'
-    groups: [ 'W' ]
+    set: [ 'W' ]
   - type: 'p'
-    groups: [ 'P1', 'P2' ]
+    set: [ 'P1', 'P2' ]
   - type: 'lk'
-    groups: [ 'LK1', 'LK2' ]
+    set: [ 'LK1', 'LK2' ]
   - type: 'l'
-    groups: [ 'L1', 'L2', 'L3' ]
+    set: [ 'L1', 'L2', 'L3' ]
 rooms:
   - 'MS Teams'
   - 's\..*'
