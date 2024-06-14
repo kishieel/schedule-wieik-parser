@@ -12,7 +12,7 @@ The parser depends on the quite heavy Apryse packages, so it may take a while to
 npm config set @kishieel:registry "https://npm.pkg.github.com/"
 npm config set //npm.pkg.github.com/:_authToken <your-github-token>
 
-npm install -g @kisielk/schedule-wieik-parser
+npm install -g @kishieel/schedule-wieik-parser
 ```
 
 ### :rocket: Usage
